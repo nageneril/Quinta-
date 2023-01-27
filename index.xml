@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+  <readme/>
+  <license/>
+  <exercise number="1">
+    <scale>major</scale>
+    <lowestNote>1</lowestNote>
+    <tonalities>1</tonalities>
+    <notes>
+      <note number="1" values="18,5,1"/>
+      <note number="2" values="18,5,1"/>
+      <note number="3" values="18,5,1"/>
+      <note number="4" values="18,5,1"/>
+    </notes>
+  </exercise>
+</level>
